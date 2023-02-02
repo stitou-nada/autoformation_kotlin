@@ -12,6 +12,5 @@ fun main() {
     val b2 = i.toFloat()
     println(b2)
 
-    //other types 
-
+ 
 }
