@@ -1,5 +1,6 @@
 fun main() {
-    println("Hello World!")
+    //var rocks: Int = null : output = ⇒ error: null can not be a value of a non-null type Int
 
-
+    var marbles: Int? = null
+    print(marbles)
 }
