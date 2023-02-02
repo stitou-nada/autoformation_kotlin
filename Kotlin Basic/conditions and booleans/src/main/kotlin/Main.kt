@@ -10,15 +10,16 @@ fun main() {
 
     // In 
     val fish = 50
-    if (fish in 1. .100) {
-        println(fish)
+    if (fish in 1..100) {
+    println(fish)
     }
 
     //When
     val number = 2
-    when(number) {
-        0 - > println("Empty tank") in 1. .39 - > println("Got fish!")
-        else - > println("That's a lot of fish!")
+    when (number) {
+    0  -> println("Empty tank")
+    in 1..39 -> println("Got fish!")
+    else -> println("That's a lot of fish!")
     }
 
 }
