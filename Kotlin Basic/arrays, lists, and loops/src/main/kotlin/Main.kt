@@ -18,10 +18,27 @@ fun main() {
     val foo2 = numbers3 + numbers
     println(foo2[3])
 
+
     // Loop 
     val school2 = arrayOf("nada", "salmon", "minnow")
     for (element in school2) {
-    print(element + " ")
+    println(element + " ")
+    }
+
+    //while
+    var bubbles = 0
+    while (bubbles < 50) {
+        bubbles++
+    }
+    println("$bubbles bubbles in the water\n")
+
+    do {
+        bubbles--
+    } while (bubbles > 50)
+    println("$bubbles bubbles in the water\n")
+
+    repeat(2) {
+        println("A fish is swimming")
     }
 
 
