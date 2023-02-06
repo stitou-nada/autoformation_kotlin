@@ -5,7 +5,6 @@ Kotlin est un nouveau langage de programmation moderne créé par des programmeu
 Pour voir quelle version du JDK vous avez installée, le cas échéant, tapez <strong>javac -version </strong>dans une fenêtre de terminal.
 . <strong> javac -version </strong>
 
-Vous pouvez voir quelle est la dernière version du JDK sur la page <a src="https://www.oracle.com/java/technologies/downloads/">Téléchargements Java SE </a>. Si vous disposez de la dernière version, passez directement à Installer IntelliJ IDEA.
 
 ## Étape 1 : Désinstallez toutes les anciennes versions du JDK / JRE
 Avant d'installer la version la plus récente et la plus performante, supprimez toutes les anciennes versions du JDK :
