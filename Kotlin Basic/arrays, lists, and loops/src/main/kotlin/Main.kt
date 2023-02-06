@@ -12,9 +12,14 @@ fun main() {
     //arrayOf
     val school = arrayOf("shark", "salmon", "minnow")
     println(java.util.Arrays.toString(school))
+    //intArrayOf
+    val numbers = intArrayOf(1,2,3)
+    val numbers3 = intArrayOf(4,5,6)
+    val foo2 = numbers3 + numbers
+    println(foo2[3])
 
     // Loop 
-    val school2 = arrayOf("shark", "salmon", "minnow")
+    val school2 = arrayOf("nada", "salmon", "minnow")
     for (element in school2) {
     print(element + " ")
     }
