@@ -32,5 +32,5 @@ Vous pouvez télécharger le JDK gratuitement ici : <a src="http://www.oracle.co
 
 ## Étape 5 : Vérifier l'installation du JDK
 
-<strong>java -version </strong>
+<strong>java -version </strong></br>
 <strong>javac -version </strong>
