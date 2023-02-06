@@ -37,4 +37,4 @@ Vous pouvez télécharger le JDK gratuitement ici : <a src="http://www.oracle.co
 
  # Tâche : Installer IntelliJ IDEA
  Étape 1 : Téléchargez et installez IntelliJ IDEA
-<a src="https://www.jetbrains.com/idea/download/#section=windows">Téléchargez IntelliJ IDEA </a>pour votre système d'exploitation.
+<a src="https://www.jetbrains.com/idea/download/#section=windows">https://www.jetbrains.com/idea/download/#section=windows </a>pour votre système d'exploitation.
