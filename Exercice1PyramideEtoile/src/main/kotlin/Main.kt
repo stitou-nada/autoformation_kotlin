@@ -1,25 +1,22 @@
 fun main() {
 
-    val n=5
-    var i: Int=0
-    var j: Int
-    var space: Int
-    while (i<n)
-    {
-        space=i
-        while (space<n)
-        {
-            print(" ")
-            space++
+    print("Enter une number : ")
+    val n = readLine()!!.toInt()
+        var k = 0
+
+        for (i in 1..n) {
+            for (space in 1..n - i) {
+                print("  ")
+            }
+
+            while (k != 2 * i - 1) {
+                print("* ")
+                ++k
+            }
+
+            println()
+            k = 0
         }
-        j=0
-        while (j<i+1)
-        {
-            print("* ")
-            j++
-        }
-        println("")
-        i++
-    }
+
 
 }
