@@ -1,7 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cc8529b-52d6-4e6e-b1af-0e9a926edb19" name="Changes" comment="" />
+    <list default="true" id="6cc8529b-52d6-4e6e-b1af-0e9a926edb19" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Explorer_la_fonction_main/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Explorer_la_fonction_main/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Explorer_la_fonction_main/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Explorer_la_fonction_main/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Explorer_la_fonction_main/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Explorer_la_fonction_main/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Explorer_la_fonction_main/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Explorer_la_fonction_main/Explorer_la_fonction_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Explorer_la_fonction_main/out/production/Explorer_la_fonction_main/META-INF/Explorer_la_fonction_main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Explorer_la_fonction_main/out/production/Explorer_la_fonction_main/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Explorer_la_fonction_main/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Higher-order/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Higher-order/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Higher-order/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Higher-order/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Higher-order/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Higher-order/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Higher-order/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Higher-order/Higher-order.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Higher-order/out/production/Higher-order/META-INF/Higher-order.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Higher-order/out/production/Higher-order/MainKt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Higher-order/out/production/Higher-order/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Higher-order/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Lambdas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Lambdas/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Lambdas/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Lambdas/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Lambdas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Lambdas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Lambdas/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Lambdas/Lambdas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Lambdas/out/production/Lambdas/META-INF/Lambdas.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Lambdas/out/production/Lambdas/MainKt$exempleCalc$waterFilter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Lambdas/out/production/Lambdas/MainKt$exempleSum$sum$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Lambdas/out/production/Lambdas/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/Lambdas/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/les fonctions/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/les fonctions/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/les fonctions/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/les fonctions/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/les fonctions/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/les fonctions/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/les fonctions/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/les fonctions/apprendre_pourquoi_presque_tout_a_une_valeur.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/les fonctions/out/production/apprendre_pourquoi_presque_tout_a_une_valeur/Exmple3Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/les fonctions/out/production/apprendre_pourquoi_presque_tout_a_une_valeur/META-INF/apprendre_pourquoi_presque_tout_a_une_valeur.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/les fonctions/out/production/apprendre_pourquoi_presque_tout_a_une_valeur/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/les fonctions/out/production/apprendre_pourquoi_presque_tout_a_une_valeur/exemple2/ExempleKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/les fonctions/out/production/apprendre_pourquoi_presque_tout_a_une_valeur/exmple4/ExmepleKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/les fonctions/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/les fonctions/src/main/kotlin/exemple2/exemple.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/les fonctions/src/main/kotlin/exemple3/exmple3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fonctions/les fonctions/src/main/kotlin/exmple4/exmeple.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/arrays, lists, and loops/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/arrays, lists, and loops/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/arrays, lists, and loops/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/arrays, lists, and loops/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/arrays, lists, and loops/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/arrays, lists, and loops/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/arrays, lists, and loops/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/arrays, lists, and loops/hello_world.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/arrays, lists, and loops/out/production/hello_world/META-INF/hello_world.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/arrays, lists, and loops/out/production/hello_world/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/arrays, lists, and loops/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/conditions and booleans/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/conditions and booleans/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/conditions and booleans/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/conditions and booleans/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/conditions and booleans/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/conditions and booleans/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/conditions and booleans/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/conditions and booleans/hello_world.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/conditions and booleans/out/production/hello_world/META-INF/hello_world.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/conditions and booleans/out/production/hello_world/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/conditions and booleans/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/nullability/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/nullability/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/nullability/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/nullability/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/nullability/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/nullability/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/nullability/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/nullability/hello_world.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/nullability/out/production/hello_world/META-INF/hello_world.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/nullability/out/production/hello_world/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/nullability/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/operators and types/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/operators and types/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/operators and types/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/operators and types/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/operators and types/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/operators and types/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/operators and types/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/operators and types/hello_world.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/operators and types/out/production/hello_world/META-INF/hello_world.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/operators and types/out/production/hello_world/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin Basic/operators and types/src/main/kotlin/Main.kt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +117,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/xampp/htdocs/Github/autoformation_kotlin/Classes-and-objects"
+    "last_opened_file_path": "C:/xampp/htdocs/Github/autoformation_kotlin"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
