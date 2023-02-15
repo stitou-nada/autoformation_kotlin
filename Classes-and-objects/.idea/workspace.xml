@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6cc8529b-52d6-4e6e-b1af-0e9a926edb19" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creation-classe/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Creation-classe/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Creation-classe/src/main/kotlin/example/myapp/Aquarium.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Creation-classe/src/main/kotlin/example/myapp/Aquarium.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Fonctions/Exercice2_Gestion_des_produits/out/production/Exercice2_Gestion_des_produits/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Fonctions/Exercice2_Gestion_des_produits/out/production/Exercice2_Gestion_des_produits/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/visibilite/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/visibilite/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/visibilite/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/visibilite/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/visibilite/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/visibilite/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/visibilite/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/visibilite/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/visibilite/visibilite.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +35,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/xampp/htdocs/Github/autoformation_kotlin/Classes-and-objects/Creation-classe"
+    "last_opened_file_path": "C:/xampp/htdocs/Github/autoformation_kotlin/Classes-and-objects"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
