@@ -5,17 +5,24 @@ abstract class AquariumFish {
 interface FishAction{
   fun eat()
 }
-class Shark :AquariumFish(){
+interface FishAge{
+  val age : Int
+}
+object GoldAge : FishAge{
+  override val age = 11
+}
+class Shark :AquariumFish() , FishAction ,FishAge by GoldAge {
   override val color= "gray"
-  fun eat(){
+
+  override fun eat(){
     println("hunt and eat fish")
   }
 
 }
 
-class  Plecostomus: AquariumFish(){
+class  Plecostomus: AquariumFish() , FishAction{
   override val color= "blue"
-  fun eat(){
+  override fun eat(){
     println("eat algae")
   }
 }

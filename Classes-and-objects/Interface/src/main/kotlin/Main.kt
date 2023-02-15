@@ -10,4 +10,6 @@ fun makeFish(){
     shark.eat()
     println("plecostomus : ${pleco.color} ")
     pleco.eat()
+    println("age : ${shark.age} ")
+    pleco.eat()
 }
