@@ -1,14 +1,5 @@
- abstract class GestionProduit {
-     val  produit = mutableListOf<String>()
-   fun Menu(){
-       println("List gestion des produits: ")
-       println("1.Ajouter")
-       println("2.Afficher")
-       println("3.Supprimer")
-       println("4.Sortie")
-       println("-----------")
-       print("Choisie un nombre : ")
-   }
+interface IGestionProduit {
+
 
 
   abstract fun Ajouter()
@@ -16,8 +7,8 @@
   abstract fun Afficher()
 
 }
- class Produit:GestionProduit(){
-
+ class GestionProduit:IGestionProduit{
+     val  produit = mutableListOf<String>()
      override fun Afficher() {
              println("List des produit: ")
          for (nom in produit){
