@@ -1,6 +1,6 @@
 package example.myapp.decor
 
- data class Decoration (val rocks: String){
+ data class Decoration (val rocks: String ){
 
 
 }
@@ -16,4 +16,7 @@ fun makeDecorations() {
 
     println (decoration1.equals(decoration2))
     println (decoration3.equals(decoration2))
+
+
+
 }
