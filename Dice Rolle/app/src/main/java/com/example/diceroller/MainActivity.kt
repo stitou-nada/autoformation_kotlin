@@ -17,6 +17,8 @@ class MainActivity : AppCompatActivity() {
 
         val rollButton: Button = findViewById(R.id.button)
         rollButton.setOnClickListener { rollDice() }
+        // Lancer un dé lorsque l’application démarre
+        rollDice()
     }
     /**
      * Lancez les dés et mettez à jour l’écran avec le résultat.
@@ -27,7 +29,19 @@ class MainActivity : AppCompatActivity() {
         val diceRoll = dice.roll()
         // Créez une variable de type ImageView appelée diceImage
         val diceImage: ImageView = findViewById(R.id.imageView)
-        diceImage.setImageResource(R.drawable.dice_2)
+        // Déterminer quel ID de ressource à utiliser en fonction du lancer de dés
+        val drawableResource = when (diceRoll) {
+            1 -> R.drawable.dice_1
+            2 -> R.drawable.dice_2
+            3 -> R.drawable.dice_3
+            4 -> R.drawable.dice_4
+            5 -> R.drawable.dice_5
+            else -> R.drawable.dice_6
+        }
+        // Mettre à jour ImageView avec le bon ID de ressource extractible
+        diceImage.setImageResource(drawableResource)
+        // Mettre à jour la description du contenu
+        diceImage.contentDescription = diceRoll.toString()
     }
 }
 
