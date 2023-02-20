@@ -2,7 +2,7 @@ package com.example.diceroller
 
 import android.os.Bundle
 import android.widget.Button
-import android.widget.TextView
+import android.widget.ImageView
 import androidx.appcompat.app.AppCompatActivity
 
 /**
@@ -25,9 +25,9 @@ class MainActivity : AppCompatActivity() {
         // Créer un nouvel objet Dice avec 6 côtés et le faire rouler
         val dice = Dice(6)
         val diceRoll = dice.roll()
-        // Mettre à jour l’écran avec le rouleau de dés
-        val resultTextView: TextView = findViewById(R.id.textView)
-        resultTextView.text = diceRoll.toString()
+        // Créez une variable de type ImageView appelée diceImage
+        val diceImage: ImageView = findViewById(R.id.imageView)
+        diceImage.setImageResource(R.drawable.dice_2)
     }
 }
 
