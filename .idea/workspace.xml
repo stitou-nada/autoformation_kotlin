@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e5c9c56-3067-4cf7-8063-4411c91c9b79" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/app/src/androidTest/java/com/example/crerdesmisesenpagexml/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/app/src/main/java/com/example/crerdesmisesenpagexml/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/app/src/test/java/com/example/crerdesmisesenpagexml/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecon 5  Mises en page/Créer des mises en page XML/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2M2uvgxTpwexIVt4AqDWgYbFV82" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e5c9c56-3067-4cf7-8063-4411c91c9b79" name="Changes" comment="" />
+      <created>1676978235481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676978235481</updated>
+    </task>
+    <servers />
+  </component>
+</project>
