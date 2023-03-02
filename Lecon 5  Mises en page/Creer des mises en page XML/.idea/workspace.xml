@@ -10,48 +10,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5945f3e-f9b6-4991-a5cf-70c9282fc490" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/app/src/androidTest/java/com/example/crerdesmisesenpagexml/ExampleInstrumentedTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/app/src/main/java/com/example/crerdesmisesenpagexml/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/app/src/test/java/com/example/crerdesmisesenpagexml/ExampleUnitTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Créer des mises en page XML/settings.gradle" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/androidTest/java/com/example/affirmations/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/java/com/example/affirmations/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/java/com/example/affirmations/model/Affirmation.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/test/java/com/example/affirmations/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecyclerView/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tip Time/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tip Time/app/src/main/res/values/colors.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +82,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tip Time" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
