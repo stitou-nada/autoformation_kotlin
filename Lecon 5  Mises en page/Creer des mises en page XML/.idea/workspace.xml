@@ -9,51 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5945f3e-f9b6-4991-a5cf-70c9282fc490" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/androidTest/java/com/example/affirmations/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/java/com/example/affirmations/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/java/com/example/affirmations/model/Affirmation.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/app/src/test/java/com/example/affirmations/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RecyclerView/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tip Time/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Tip Time/app/src/main/res/values/colors.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d198da10-0be8-442b-a635-c0e96dbe782f" name="Changes" comment="&#10;Créer des mises en page XML pour Android" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +27,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2M2YxCv5VYgjbAHwCnSJ7mxjIKG" />
+  <component name="ProjectId" id="2MSOzly92aE6d71LK6mzh5QVBNX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -82,11 +38,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="XML.app.main" />
+      <module name="tip_time.app.main" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -148,12 +103,49 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a5945f3e-f9b6-4991-a5cf-70c9282fc490" name="Changes" comment="" />
-      <created>1676967389380</created>
+      <changelist id="d198da10-0be8-442b-a635-c0e96dbe782f" name="Changes" comment="" />
+      <created>1677757781938</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1676967389380</updated>
+      <updated>1677757781938</updated>
     </task>
+    <task id="LOCAL-00001" summary="&#10;Créer des mises en page XML pour Android">
+      <created>1677757926044</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677757926044</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&#10;Créer des mises en page XML pour Android">
+      <created>1677757953768</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677757953768</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&#10;Créer des mises en page XML pour Android">
+      <created>1677757988570</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677757988570</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&#10;Créer des mises en page XML pour Android" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;Créer des mises en page XML pour Android" />
   </component>
 </project>
