@@ -1,0 +1,1 @@
+Modifier une application de dictionnaire afin d'implémenter la navigation entre les écrans à l'aide d'intents et en ajoutant un menu d'options.
