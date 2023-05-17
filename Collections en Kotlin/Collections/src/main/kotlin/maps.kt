@@ -7,5 +7,8 @@ fun main() {
     peopleAges.put("Barbara", 42)
     peopleAges["Joe"] = 51
     peopleAges["Fred"] = 31
-    println(peopleAges)
+    println(peopleAges.map { "${it.key} is ${it.value}" }.joinToString(", ") )
+    val filteredNames = peopleAges.filter { it.key.length < 4 }
+    println(filteredNames)
+    //println(peopleAges)
 }
